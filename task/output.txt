@@ -1,0 +1,14 @@
+Household at 234 2nd ave., 2:
+Eve, Smith, 234 2nd ave., tacoma, wa, 25
+Bob, Williams, 234 2nd ave., tacoma, wa, 26
+Household at 234 2nd ave., 1:
+Frank, Jones, 234 2nd ave., tacoma, fl, 23
+Household at 345 3rd blvd., apt. 200, 2:
+George, Brown, 345 3rd blvd., apt. 200, seattle, wa, 18
+Helen, Brown, 345 3rd blvd., apt. 200, seattle, wa, 18
+Household at 123 main st., 4:
+Alice, Smith, 123 main st., seattle, wa, 45
+Dave, Smith, 123 main st., seattle, wa, 43
+Ian, Smith, 123 main st., seattle, wa, 18
+Household at 234 2nd ave, 1:
+Carol, Johnson, 234 2nd ave, seattle, wa, 67
